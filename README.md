@@ -45,7 +45,7 @@ This project was built as part of a **web development internship** to demonstrat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/newsnest.git
+   git clone https://github.com/oviya5522/newsnest.git
 
 ---
 2. Navigate to the project directory:
